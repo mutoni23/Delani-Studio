@@ -135,7 +135,6 @@
 .july{
     background: rgba(0, 0, 0, 0.7);
     position: absolute;
-    
     height: 100%;
     width: 100%;
     left: 0;
@@ -147,6 +146,7 @@
 }
 #augst{
     position: absolute;
+    
     opacity: 1;
     -webkit-transform: translate(-50%, -50%);
     -moz-transform: translate(-50%, -50%);
