@@ -73,13 +73,13 @@
     padding: 20px 0;
 }
 .sat p {
-    color: white;
-    
+    color: white; 
     font-size: 70px;
 }
 .jan{
     background: rgba(0, 0, 0, 0.7);
     position: absolute;
+    
     height: 100%;
     width: 100%;
     left: 0;
